@@ -9,7 +9,7 @@ mappersonfamily - fields are [PersonID, FamilyID]
 
 
 ###Data Insertion Docs
-Request can be found on postman link : https://www.getpostman.com/collections/bd683745ec2315fa06d8
+Request can be found on postman link : https://www.getpostman.com/collections/91b619e6fb05d9ea5cc9
 first we will insert using request named "Family-Insert".
 then we will insert each person one by one using request named Person-Insert.
 we can also add universe too request named "Universe-Insert".
