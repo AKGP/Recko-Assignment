@@ -1,0 +1,32 @@
+{
+  "name": "nodeapibookselling",
+  "version": "1.0.0",
+  "description": "api for book-selling",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKGP/bookSellingNodeApi.git"
+  },
+  "keywords": [
+    "book"
+  ],
+  "author": "Ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKGP/bookSellingNodeApi/issues"
+  },
+  "homepage": "https://github.com/AKGP/bookSellingNodeApi#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.2",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.4",
+    "promise-mysql": "^3.3.1"
+  }
+}
